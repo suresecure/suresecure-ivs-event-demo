@@ -2,3 +2,4 @@ bin
 obj
 packages
 *.suo
+thirdparty/DevComponents.DotNetBar2.dll
