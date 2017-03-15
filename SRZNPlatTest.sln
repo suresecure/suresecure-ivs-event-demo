@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRZNPlatTest", "SRZNPlatTest\SRZNPlatTest.csproj", "{72E79336-AF9C-4F6E-95AF-1D74101F880D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMessage", "NetMessage\NetMessage.csproj", "{07B28472-2E34-48B6-9528-CF94CC9B56F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E79336-AF9C-4F6E-95AF-1D74101F880D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E79336-AF9C-4F6E-95AF-1D74101F880D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E79336-AF9C-4F6E-95AF-1D74101F880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E79336-AF9C-4F6E-95AF-1D74101F880D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B28472-2E34-48B6-9528-CF94CC9B56F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B28472-2E34-48B6-9528-CF94CC9B56F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B28472-2E34-48B6-9528-CF94CC9B56F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B28472-2E34-48B6-9528-CF94CC9B56F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
